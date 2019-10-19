@@ -574,16 +574,4 @@ PRODUCT_PACKAGES += \
     libsdm-disp-apis \
     libthermalclient \
     libtime_genoff \
-    QtiTelephonyService \
-    TimeService \
-    embms \
-    shutdownlistener \
-    CNEService \
-    QtiTetherService \
-    com.qualcomm.location \
-    dpmserviceapp \
-    qcrilmsgtunnel \
-    colorservice \
-    ims \
-    imssettings \
     qcrilhook
